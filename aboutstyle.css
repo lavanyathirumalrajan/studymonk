@@ -1,0 +1,33 @@
+h1,p{
+text-align:center;
+font-size:50px;
+}
+h1{
+color:white;
+font-family: 'Amaranth', sans-serif;
+}
+p{
+color:white;
+font-size:30px;
+font-family: 'Courgette', cursive;
+margin-left:60px;
+margin-right:50px;
+}
+body{
+background-image:url("https://www.si3.ae/wp-content/uploads/2018/08/Web-design-development-dubai.jpg");
+background-size:cover;
+}
+#b1 {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 12px;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-left:615px;
+}

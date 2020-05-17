@@ -1,0 +1,19 @@
+body{
+background-image:url("https://res.cloudinary.com/twenty20/private_images/t_watermark-criss-cross-10/v1496425127000/photosp/a327b6e3-4576-463f-8a41-968b0f3844b3/stock-photo-business-technology-office-laptop-background-computer-notebook-smartphone-workspace-a327b6e3-4576-463f-8a41-968b0f3844b3.jpg");
+background-size:cover;
+background-repeat:no-repeat;
+}
+#b1 {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 12px;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-left:80px;
+}
